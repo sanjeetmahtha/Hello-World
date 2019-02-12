@@ -1,2 +1,3 @@
 # Hello-World
-This is first directory created while learning Github
+This is the first directory created, while learning Github
+and I am following second step
